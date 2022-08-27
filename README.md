@@ -1,16 +1,41 @@
-# phone_otp_ui
+# Beautiful Phone OTP page In Flutter
 
-A new Flutter project.
+Create a phone number otp page in flutter.
+
+Video tutorial:
+https://www.youtube.com/watch?v=Wz_9b7DvYww
+
+
+This amazing app is provided in open source. So, helpful contributions are highly appreciated.
+
+## ScreenShots
+
+
+| <img src="screenshots/login.jpg"  width="300"/> | <img src="screenshots/register.jpg" width="300"/>  |
+
+---
+
+### :heart: Found this project useful?
+
+If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
+
+---
+
+
+## Project Created & Maintained By
+
+### Siddharth Chopra
+
+<a href="https://twitter.com/sidd_art_"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+<a href="https://linkedin.com/in/siddharthchopra1/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://instagram.com/siddharth_chopra"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+
+
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+- clone repo and setup dart plugin
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
