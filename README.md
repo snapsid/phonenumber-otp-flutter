@@ -2,8 +2,7 @@
 
 Create a phone number otp page in flutter.
 
-Video tutorial:
-https://www.youtube.com/watch?v=Wz_9b7DvYww
+## [Watch it on YouTube](https://www.youtube.com/watch?v=Wz_9b7DvYww)
 
 
 This amazing app is provided in open source. So, helpful contributions are highly appreciated.
